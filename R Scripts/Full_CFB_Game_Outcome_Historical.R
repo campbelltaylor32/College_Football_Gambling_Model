@@ -4,7 +4,6 @@ require(data.table)
 
 
 ### Load in Key
-Sys.setenv(CFBD_API_KEY = "+7pFEyFsISDn4fKPCGPyI9K/7tylHLRlY1bqQbT9QFHE2t7h0e9J1k47PMOGWDll")
 Sys.getenv(
   "CFBD_API_KEY"
 )
