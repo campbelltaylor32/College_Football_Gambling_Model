@@ -1,0 +1,8 @@
+# R session files
+.RDataTmp
+.RDataTmp1
+.Rhistory
+.Rproj.user/
+
+Data/*.csv
+Data/*.csv
